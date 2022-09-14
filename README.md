@@ -4,9 +4,9 @@ Project based on CRUD operations, with a graphical interface created using Qt fr
 
 <h2> Skills acquired </h2> 
 
-* applying OOP concepts in C++
+* using OOP concepts within a C++ project
 * working with Qt framework 
-* building a project based on MVC architecture
+
 
 <h2> Resources </h2> 
 <a href="https://zetcode.com/gui/qt5/"> Qt5 tutorial </a> 
